@@ -1,0 +1,51 @@
+{
+  "spotify": "https://open.spotify.com/show/5XNnbqGqk05czKolA6Igky",
+  "episodes": [
+    {
+      "id": "1oYp8jUpyGVaEeY2zXBSDh",
+      "title": "O caminho para vender no digital — Filipe Pinheiro"
+    },
+    {
+      "id": "34LAHu6emP07pjJm4Y17O5",
+      "title": "Marketing que funciona — Rafael Fonseca"
+    },
+    {
+      "id": "673MaR7qp66kV1MKFWd5e6",
+      "title": "O poder de uma marca forte — Wil Machado"
+    }
+  ],
+  "social": [
+    {
+      "url": "https://www.instagram.com/podcastmaisnegocios/reel/DemD0kMSexN/",
+      "image": "media/instagram-1.webp",
+      "caption": "Publicação 1 do Instagram"
+    },
+    {
+      "url": "https://www.instagram.com/podcastmaisnegocios/reel/DecFMH4SR4o/",
+      "image": "media/instagram-2.webp",
+      "caption": "Publicação 2 do Instagram"
+    },
+    {
+      "url": "https://www.instagram.com/podcastmaisnegocios/reel/DdWk2A8h7f7/",
+      "image": "media/instagram-3.webp",
+      "caption": "Publicação 3 do Instagram"
+    },
+    {
+      "url": "https://www.instagram.com/rafafonck/reel/DdbahT0x4aL/",
+      "image": "media/instagram-4.webp",
+      "caption": "Publicação 4 do Instagram"
+    },
+    {
+      "url": "https://www.instagram.com/podcastmaisnegocios/reel/DeNSU4jvrOf/",
+      "image": "media/instagram-5.webp",
+      "caption": "Publicação 5 do Instagram"
+    },
+    {
+      "url": "https://www.instagram.com/podcastmaisnegocios/reel/DeKs1w-SGdg/",
+      "image": "media/instagram-6.webp",
+      "caption": "Publicação 6 do Instagram"
+    }
+  ],
+  "verifiedAt": "2026-10-26",
+  "source": "https://linktr.ee/Podcastmaisnegocios"
+}
